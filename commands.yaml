@@ -1,4 +1,4 @@
-commands:
+command_sets:
   echo:
-    sourcePath: https://raw.githubusercontent.com/ericswildens/echo/master/commands.yaml
+    sourcePath: https://raw.githubusercontent.com/jamiedawson/echo/master/commands.yaml
     description: simple echo test
