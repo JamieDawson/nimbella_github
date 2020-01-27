@@ -1,4 +1,0 @@
-commands:
-  echo:
-    sourcePath: https://raw.githubusercontent.com/ericswildens/echo/master/commands.yaml
-    description: simple echo test
